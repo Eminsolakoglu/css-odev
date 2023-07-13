@@ -1,0 +1,39 @@
+.boxUp{
+    background-color: rgb(223, 222, 222);
+    width: 716.8125px;
+}
+
+
+
+.boxMain{
+   margin:auto;
+   width: 812px;
+    display: ;
+}
+
+
+p{
+    margin: 0;
+    padding: 0;
+}
+.boxDownLeft{
+    background-color:aqua;
+    padding-top: ;
+    width: 265.421875px;
+    
+    height: 80px;
+}
+
+.boxDownMid{
+    background-color:rgb(44, 199, 199);
+    width: 157.640625px;
+    
+    height: 80px;
+}
+
+.boxDownRight{
+    background-color:rgb(31, 107, 107);
+    width: 293.75px;
+    height: 80px;
+ 
+}
